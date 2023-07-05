@@ -9290,7 +9290,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  padding: 7em 0;
+  padding: 2em 0;
   background: black;
   position: relative; }
   .ftco-footer .ftco-footer-logo {
@@ -9781,7 +9781,8 @@ textarea.form-control {
   position: relative;
   display: block;
   width: 100%;
-  height: 270px;
+  /* height: 270px; */
+  height: 170px;
   margin-bottom: 20px; }
 
 .blog-entry {
