@@ -1,1 +1,0 @@
-# insidentil-id.github.io
